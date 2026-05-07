@@ -59,7 +59,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Sidebar
-st.sidebar.image("logo.png", width=180)
+st.sidebar.markdown("## 🩺 OncoPredict AI")
 st.sidebar.title("OncoPredict AI")
 
 st.sidebar.markdown("""
