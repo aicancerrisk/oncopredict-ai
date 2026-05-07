@@ -87,10 +87,6 @@ st.warning(
     "Disclaimer: This application is developed for educational and awareness purposes only and does not provide medical diagnosis."
 )
 
-st.warning(
-    "Disclaimer: This application is developed for educational and awareness purposes only and does not provide medical diagnosis."
-)
-
 # Inputs
 st.markdown("## 👤 Patient Health Assessment")
 
